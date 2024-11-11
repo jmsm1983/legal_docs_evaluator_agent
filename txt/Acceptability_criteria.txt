@@ -1,0 +1,97 @@
+Predefined Criteria for Acceptability
+1. Parties and Purpose
+Criteria: The NDA should clearly state the identities of the parties involved, their legal entities, business addresses, and the purpose for sharing confidential information.
+Acceptability Standard:
+Full legal names and designations (e.g., "Disclosing Party" and "Receiving Party") should be used.
+The purpose of information sharing should be specific, limited, and directly related to the disclosed information (e.g., evaluating a potential acquisition).
+Any reference to affiliates, subsidiaries, or related parties should be clearly defined.
+2. Definition of Confidential Information
+Criteria: The NDA should explicitly define "Confidential Information," covering business, technical, financial, and other proprietary data.
+Acceptability Standard:
+Confidential Information should include categories such as financial information, business plans, product details, client lists, trade secrets, and technical specifications.
+The NDA should clarify that the absence of a "Confidential" label does not preclude information from being treated as confidential.
+Ensure that both written and verbal disclosures are covered, as well as observations and derivations made by the Receiving Party based on Confidential Information.
+3. Use of Confidential Information
+Criteria: The NDA should restrict the Receiving Party’s use of Confidential Information solely to the stated purpose.
+Acceptability Standard:
+Confidential Information should be explicitly limited to the specified purpose (e.g., due diligence for acquisition).
+The NDA should prohibit the Receiving Party from using Confidential Information to gain a competitive advantage, even indirectly.
+Specific language should prevent the use of Confidential Information for any purpose beyond the scope of the agreement unless authorized in writing by the Disclosing Party.
+4. Non-Disclosure Obligations
+Criteria: The NDA should strictly prohibit unauthorized disclosure of Confidential Information.
+Acceptability Standard:
+Unauthorized distribution, disclosure, or dissemination to third parties should be prohibited.
+Confidential Information should only be shared with third parties on a "need-to-know" basis, and those third parties must be bound by confidentiality obligations.
+The Receiving Party should exercise at least the same level of care to protect Confidential Information as it does for its own sensitive information, ideally with a minimum standard specified.
+5. Ownership and Return of Information
+Criteria: The NDA should confirm that Confidential Information remains the property of the Disclosing Party and should provide for its return or destruction.
+Acceptability Standard:
+The NDA should clearly state that all rights to Confidential Information remain with the Disclosing Party.
+Upon termination of the agreement or upon request, the Receiving Party should be obligated to return or destroy all copies of Confidential Information.
+Any derived materials or copies should be included, and destruction should be verifiable (e.g., written confirmation of destruction).
+6. Exceptions to Confidentiality Obligations
+Criteria: Specific exceptions should be defined when Confidential Information is not protected under the agreement.
+Acceptability Standard:
+Standard exceptions include:
+Information in the public domain (provided it didn’t enter due to a breach).
+Information already known by the Receiving Party legally before disclosure.
+Information independently developed by the Receiving Party without using Confidential Information.
+Partial public knowledge should not render the entire set of information non-confidential.
+7. Duration of Confidentiality Obligations
+Criteria: The NDA should specify the duration of confidentiality obligations.
+Acceptability Standard:
+The NDA should specify a clear timeframe for confidentiality (e.g., 3-5 years) to ensure reasonable enforceability.
+If trade secrets are involved, the NDA may specify perpetual confidentiality obligations, with a note about the distinction from standard confidential information.
+8. Right to Refuse Disclosure
+Criteria: The Disclosing Party should retain the right to decide which information to disclose.
+Acceptability Standard:
+The NDA should not obligate the Disclosing Party to disclose any particular type of information, giving it full discretion over what is shared.
+9. Legal Capacity and Authority
+Criteria: Both parties should warrant their authority to enter into the agreement.
+Acceptability Standard:
+Both the Disclosing Party and Receiving Party should warrant that they have the legal authority and capacity to execute the obligations set forth in the NDA.
+The NDA should state that the individual signing on behalf of each party has the authority to bind the party to the agreement.
+10. Entire Agreement and Amendments
+Criteria: The NDA should constitute the entire agreement and require written consent for any amendments.
+Acceptability Standard:
+The NDA should clearly state that it supersedes all prior understandings regarding confidentiality.
+Any amendments must be made in writing and signed by both parties.
+11. Jurisdiction and Governing Law
+Criteria: Specify the governing law for the agreement.
+Acceptability Standard:
+The NDA should include a governing law clause, preferably in a jurisdiction favorable to the Disclosing Party.
+For international agreements, specify which country's laws will apply and, if possible, address dispute resolution mechanisms.
+12. Confidentiality of the Agreement’s Existence
+Criteria: The NDA should require the Receiving Party to keep the existence of the NDA confidential.
+Acceptability Standard:
+The NDA should require confidentiality around the fact that discussions or negotiations are taking place, especially if sensitive business dealings are involved.
+13. Legal Disclosure and Protective Orders
+Criteria: The NDA should provide a process for legally compelled disclosure.
+Acceptability Standard:
+The Receiving Party should notify the Disclosing Party if compelled by law to disclose Confidential Information, allowing time to seek protective orders.
+Only the minimum legally required disclosure should be permitted if a protective order is unavailable.
+14. Remedies for Breach
+Criteria: The NDA should outline remedies in case of confidentiality breaches.
+Acceptability Standard:
+The NDA should specify that monetary damages may be insufficient, and the Disclosing Party may seek injunctive relief or specific performance.
+Consequences for breach should be outlined to ensure enforceability and provide adequate recourse.
+15. No Waiver Clause
+Criteria: The NDA should specify that failure to enforce any provision does not constitute a waiver.
+Acceptability Standard:
+Include a clause clarifying that delay or failure to enforce rights does not waive future enforcement of those rights.
+16. Assignment Restriction
+Criteria: Prevent the Receiving Party from assigning or transferring the NDA without consent.
+Acceptability Standard:
+The Receiving Party should not be allowed to assign the NDA or transfer Confidential Information without the Disclosing Party’s written consent.
+17. Notice Requirement for Unauthorized Disclosures
+Criteria: The NDA should require notification in case of unauthorized disclosure.
+Acceptability Standard:
+The Receiving Party must notify the Disclosing Party immediately upon discovering any unauthorized disclosure of Confidential Information.
+18. Data Security Measures
+Criteria: The NDA should require reasonable data security measures.
+Acceptability Standard:
+Specify that the Receiving Party must implement reasonable security practices to protect Confidential Information from unauthorized access, theft, or leaks.
+19. Audit Rights (Optional)
+Criteria: Allow the Disclosing Party to audit the Receiving Party’s compliance with confidentiality obligations.
+Acceptability Standard:
+In highly sensitive agreements, the NDA may allow for periodic audits to ensure compliance with confidentiality measures.

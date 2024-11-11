@@ -1,0 +1,441 @@
+ASSET PURCHASE AGREEMENT
+
+ 
+
+THIS ASSET PURCHASE AGREEMENT (this “Agreement”) is made as of February 12, 2015, by and between Retrophin, Inc., a Delaware corporation (“Retrophin” or “Seller”) and Turing Pharmaceuticals AG, a stock corporation organized under the laws of Switzerland (“Buyer”).  Buyer and Seller may be referred to herein collectively as the “Parties” and individually as a “Party.”
+
+ 
+
+RECITALS
+
+
+WHEREAS, Buyer is interested in acquiring from Seller the Assets (as defined in Section 2.1 below) related to Syntocinon (the “Product”) developed pursuant to that certain License Agreement made as of December 12, 2013 by and between Novartis Pharma AG and Novartis AG (collectively, “Novartis”) and Seller (the “Novartis Agreement”).
+
+
+WHEREAS, Seller desires to assign all of its rights, interests and obligations under the Novartis Agreement and convey all of the Assets to Buyer, and Buyer desires to purchase the Assets from Seller and assume the Product rights, interests and obligations under the Novartis Agreement, all on the terms and subject to the conditions set forth in this Agreement.
+
+
+NOW, THEREFORE, in consideration of these premises, the respective covenants of Buyer and Seller set forth below and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+ 
+
+ARTICLE 1
+DEFINITIONS
+
+ 
+
+1.1          Definitions.  In addition to the other capitalized terms defined herein, the following capitalized terms shall have the following respective meanings:
+
+
+“Affiliate” means, with respect to any Party, any Person that, directly or indirectly, controls, is controlled by, or is under common control with such Party at any time during the period for which the determination of affiliation is being made.  For the purposes of this definition, “control” (with correlative meanings for the terms “controlled by” and “under common control with”) means the possession by the applicable Person, directly or indirectly, of the power to direct or cause the direction of the management, policies and business affairs of a Person, whether through ownership of voting securities or general partnership or managing member interests, by contract or otherwise.
+
+
+“Applicable Laws” means all applicable laws, rules, regulations and guidelines that may apply to the development, manufacture, use, sale, offer for sale or distribution of Product, or the performance of any Party’s obligations under this Agreement.
+
+
+“Business Day” means any day other than a Saturday, Sunday or a day on which banking institutions in the State of New York are authorized or obligated by law or executive order to close.
+
+
+ 
+ 
+
+“Confidential Information” means any information that (i) in any way relates to a Party or Affiliate thereof, including its products, business, know-how, business strategies and technology and (ii) is furnished or disclosed to the other Party in connection with this Agreement, and is identified as “confidential” (or words of similar import) upon such disclosure; provided, however, that the term “Confidential Information” shall not include any specific information that:
+
+
+(A)         at the time of disclosure, is generally available to the public;
+
+
+(B)         after disclosure hereunder, becomes generally available to the public, except as a result of a breach of this Agreement by the recipient of such information;
+
+
+(C)         becomes available to the recipient of such information from a Third Party that is not legally or contractually prohibited by the disclosing Party from disclosing such Confidential Information; or
+
+
+(D)         the recipient of which can demonstrate was developed by or for such recipient without the use of any of the Confidential Information of the disclosing Party or its Affiliates hereunder.
+
+
+“Liens” means any mortgages, security interests, liens, options, pledges, equities, claims, charges, restrictions, conditions, conditional sale contracts and any other adverse interests or other encumbrances of any kind whatsoever.
+
+
+“Person” means any individual, partnership, association, corporation, limited liability company, trust or other legal person or entity.
+
+
+“Territory” means the United States and its territories and possessions.
+
+
+“Third Party” means any Person other than a Party and such Party’s Affiliates.
+
+ 
+
+1.2          Interpretation.  Unless the context of this Agreement otherwise requires (a) words of any gender include each other gender, (b) words using the singular or plural number also include the plural or singular number, respectively, (c) the terms “hereof,” “herein,” “hereby” and derivative or similar words refer to this entire Agreement, (d) the terms “Article,” “Section” and “Exhibit” refer to the specified Article, Section and Exhibit of this Agreement and (e) the terms “include,” “includes” or “including,” shall be deemed to be followed by the words “without limitation” unless otherwise indicated.  Whenever this Agreement refers to a number of days, unless otherwise specified, such number shall refer to calendar days.  The headings in this Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement.
+
+ 
+
+ARTICLE 2
+SALE AND PURCHASE OF purchased ASSETS
+
+ 
+
+2.1          Conveyance of Assets.  Upon the terms and subject to the conditions of this Agreement, on the Closing Date, Seller shall irrevocably sell, assign, transfer, convey and deliver to Buyer, and Buyer shall purchase, acquire and accept, free and clear of any and all Liens, all
+
+
+2
+ 
+
+right, title and interest of Seller in and to the Novartis Agreement and the following assets related to the Product in the Territory (collectively, the “Assets”):
+
+
+(a)          Market research and forecast – milk let down;
+
+
+(b)          Synopsis – low birth weight infants;
+
+
+(c)          Synopsis – phase 1 study;
+
+
+(d)          Briefing document and FDA minutes;
+
+
+(e)          Number of investigator proposals for other indications;
+
+
+(f)          450 nasal spray vials of active and 450 nasal spray vials of placebo currently at Kydes;
+
+
+(g)          17,500 nasal spray vials of placebo and in-process run for 17,500 nasal spray vials; and
+
+
+(h)          Pending order of 28g of raw material.
+
+ 
+
+2.2          Assumed Liabilities.  Upon the terms and subject to the conditions of this Agreement, on the Closing Date, Buyer shall assume, be responsible for and pay, perform and discharge when due the liabilities expressly set forth below (the “Assumed Liabilities”):
+
+
+(a)          The Three Million Dollar ($3,000,000) annual milestone payment arising under Section 10.1(b) of the Novartis Agreement that was due on December 12, 2014;
+
+
+(b)          Any and all liabilities of Seller arising under the Novartis Agreement that accrue from and after the Closing Date; and
+
+
+(c)          The cost of items (g) and (h) in Section 2.1 above.
+
+ 
+
+2.3          Excluded Liabilities.  Except for the Assumed Liabilities, Buyer shall not assume or be liable for any liabilities of Seller or its respective Affiliates (fixed, contingent or otherwise, and whether or not accrued) arising from or related to the Product, the Assets or otherwise (the “Excluded Liabilities”).
+
+ 
+
+2.4          Transfer Taxes and Fees.  Any and all sales, excise, use, value-added and similar taxes, fees or duties assessed or incurred by reason of the sale by Seller and the purchase by Buyer of the Assets hereunder shall be paid by Seller (and not by Buyer), regardless of which Party against which such taxes, fees or duties are assessed.
+
+ 
+
+ARTICLE 3
+Consideration  
+
+ 
+
+3.1          Consideration.  Subject to the terms and conditions of this Agreement, the consideration (the “Consideration”) for the transfer and conveyance of the Assets to Buyer in accordance with Article 2 shall be One Million Dollars ($1,000,000) plus One Hundred Ten
+
+
+3
+ 
+
+Thousand Nine Hundred Thirty One and 20/100 Dollars ($110,931.20), representing the cost of items (g) and (h) in Section 2.1 above, payable by wire transfer of immediately available funds to the account or accounts designated in writing by Seller.
+
+ 
+
+3.2          Allocation of Consideration.  The Consideration shall be allocated among the Assets as of the Closing Date in accordance with Applicable Laws.  The Parties each agree to (a) report (and to cause its respective Affiliates to report) the transactions contemplated by this Agreement in a manner consistent with Applicable Law and with the terms of this Agreement and (b) not to take any position inconsistent therewith in any tax return, in any tax refund claim, in any litigation or otherwise.  For tax purposes, the Parties each agree to treat the transfer of the Assets to Buyer in part as a sale of the Assets to Buyer and in part as a contribution of the Assets to Buyer under Section 721 of the U.S. Internal Revenue Code (and comparable provisions of applicable U.S., state, local and non-U.S. tax laws).
+
+
+ARTICLE 4
+REPRESENTATIONS AND WARRANTIES OF SELLER
+
+
+Seller hereby represents and warrants to Buyer as follows:
+
+ 
+
+4.1          Organization; Subsidiary.  Seller is a business entity duly organized, validly existing and in good standing under the laws of the jurisdiction in which it is formed or incorporated.  Seller has the requisite power and authority to own, lease and operate the properties now owned, leased and operated by it and to carry on its business as currently conducted.  Seller is duly qualified to do business as a foreign entity in each jurisdiction in which the nature of its business or the character of its properties makes such qualification necessary, except where the failure to do so would not have a material adverse effect on Seller or any of the Assets.  
+
+ 
+
+4.2          Authority and Enforceability.  Seller has the requisite power and authority to enter into this Agreement and each of the Bill of Sale and the Assignment and Assumption Agreement (as such terms are defined in Section 6.2) to which each is a party (collectively the “Ancillary Agreements”), and to perform its obligations hereunder and thereunder.  Seller has taken all necessary action on its part to authorize the execution and delivery of this Agreement and each Ancillary Agreement to which it is a party and the performance of its obligations hereunder and thereunder.  This Agreement and each Ancillary Agreement to which it is a party has been duly and validly executed and delivered by Seller and is the legal, valid and binding obligation of Seller, enforceable against Seller in accordance with its terms.
+
+ 
+
+4.3          No Violation, Etc.  The execution and delivery of this Agreement and each Ancillary Agreement to which it is a party, and the performance of the obligations hereunder and thereunder by Seller does not and will not (a) violate or conflict with any provision of the charter documents of Seller, (b) violate, or conflict with, or result in a breach of any provision of, or constitute a default or give rise to any right of termination, cancellation or acceleration (with the passage of time, notice or both) under any agreement, lease, instrument, obligation, understanding or arrangement, oral or written, to which Seller is a party or by which any of Seller’s properties or assets is subject, including the Assets, (c) violate any Applicable Law to
+
+
+4
+ 
+
+which Seller or any of its properties or assets are subject or (d) result in any Lien on the Assets.  Without limiting the foregoing, Seller has not granted any right to any Third Party which would conflict with the conveyance of the Assets to Buyer.
+
+ 
+
+4.4          No Consents and Approvals.  Except for the consents of Novartis and Athyrium Capital Management as provided in Section 4.7, no permit, consent, approval or authorization of, or notice, declaration, filing or registration with, any governmental authority or Third Party is or will be necessary in connection with the execution and delivery by Seller of this Agreement and each Ancillary Agreement to which it is a party or the performance by Seller of its obligations hereunder and thereunder.
+
+ 
+
+4.5          Litigation.  There is no litigation, proceeding, investigation, arbitration or claim pending against Seller or, to Seller’s knowledge, threatened with respect to the Assets or the transactions contemplated herein.
+
+ 
+
+4.6          Assets.  Seller has, and on the Closing Date will convey and transfer to Buyer hereby, good, complete and legal title to each and all of the Assets, free and clear of any and all Liens.  
+
+ 
+
+4.7          Assigned Contract.  Seller has delivered to Buyer a true, correct and complete copy of the Novartis Agreement (the “Assigned Contract”) (including amendments thereto).  The Assigned Contract is a valid and binding obligation of the parties thereto, enforceable in accordance with its terms.  Except for the non-payment of the amount referred to in Section 2.2(a) hereof, (a) Seller has duly performed all of its obligations under the Assigned Contract to the extent that such obligations to perform have accrued, (b) no breach or default, alleged breach or default, or event which would (with the passage of time, notice or both) constitute a breach or default thereunder has occurred and (c) Seller has not received any notice of default or breach (written or oral) under the Assigned Contract.  The execution, delivery and performance of this Agreement or any Ancillary Agreement and consummation of the transactions contemplated hereby and thereby will not result in a breach of or default under the Assigned Contract, will not terminate of modify any rights of, or accelerate or augment any obligation of, Seller under the Assigned Contract and do not require any consent, approval, waiver or other action by any party to the Assigned Contract, except for the consent to assign the Assigned Contract  by Novartis.  In accordance with the terms of this Agreement, at the Closing, Seller’s rights under the Assigned Contract shall be assigned hereby to Buyer, and Buyer shall have the right to exercise the rights and privileges of Seller under the Assigned Contract pursuant to its terms.
+
+ 
+
+4.8          Solvency.  Upon and immediately following the Closing Date, after giving effect to all of the transactions contemplated by and in this Agreement (including the payment of the Closing Date Payment and the assumption by Buyer of the Assumed Liabilities in accordance herewith), Seller will not be insolvent and Seller will have sufficient capital to continue in business and pay its debts as they become due.
+
+ 
+
+4.9          Exclusive Representations and Warranties.         Other than the express representations and warranties set forth in this Article 4 or in any Ancillary Agreement, Seller is not making any representations or warranties, express or implied.
+
+ 
+
+5
+ 
+
+ARTICLE 5
+REPRESENTATIONS AND WARRANTIES OF BUYER
+
+
+Buyer hereby represents and warrants to Seller as follows:
+
+ 
+
+5.1          Organization.  Buyer is a stock corporation organized, validly existing and in good standing under the laws of Switzerland.  Buyer has the requisite power and authority to own, lease and operate the properties now owned, leased and operated by it and to carry on its businesses as currently conducted.  Buyer is duly qualified to do business as a foreign entity in each jurisdiction in which the nature of its business or the character of its properties makes such qualification necessary, except where the failure to do so would not have a material adverse effect on Buyer.
+
+ 
+
+5.2          Authority and Enforceability.  Buyer has the requisite power and authority to enter into this Agreement and each Ancillary Agreement to which it is a party and to perform its obligations hereunder and thereunder.  Buyer has taken all necessary action on its part to authorize the execution and delivery of this Agreement and each Ancillary Agreement to which it is a party and the performance of its obligations hereunder and thereunder.  This Agreement and each Ancillary Agreement to which it is a party has been duly and validly executed and delivered by Buyer and is the legal, valid and binding obligation of Buyer, enforceable against Buyer in accordance with its terms.
+
+ 
+
+5.3          No Violation, Etc.  The execution and delivery of this Agreement and each Ancillary Agreement to which it is a party and the performance of the obligations hereunder and thereunder by Buyer does not and will not (a) violate or conflict with any provision of the charter documents of Buyer, (b) violate, or conflict with, or result in a breach of any provision of, or constitute a default or give rise to any right of termination, cancellation or acceleration (with the passage of time, notice or both) under any agreement, lease, instrument, obligation, understanding or arrangement, oral or written, to which Buyer or any of its Affiliates is a party or by which any of Buyer’s properties or assets is subject or (c) violate any Applicable Law to which Buyer or any of its properties or assets are subject.
+
+ 
+
+5.4          No Consents and Approvals.  No permit, consent, approval or authorization of, or notice, declaration, filing or registration with, any governmental authority or Third Party is or will be necessary in connection with the execution and delivery by Buyer of this Agreement and each Ancillary Agreement to which it is a party or the performance by Buyer of its obligations hereunder and thereunder.
+
+ 
+
+5.5          Litigation.  There is no litigation, proceeding, investigation, arbitration or claim pending against Buyer or its Affiliates or, to Buyer’ knowledge, threatened with respect to the transactions contemplated herein.
+
+ 
+
+5.6          Exclusive Representations and Warranties.         Other than the express representations and warranties set forth in this Article 5 or in any Ancillary Agreement, Buyer is not making any representations or warranties, express or implied.
+
+ 
+
+6
+ 
+
+ARTICLE 6
+CLOSING
+
+ 
+
+6.1          Closing.  The consummation of the transactions contemplated herein (the “Closing”) will take place on the date hereof at the offices of Reitler Kailas & Rosenblatt LLC, 885 Third Avenue, New York, New York 10022, or at such other time and place as agreed to by Buyer and Seller in writing.  The date on which the Closing actually occurs is referred to herein as the “Closing Date”.
+
+ 
+
+6.2          Closing Deliverables.
+
+
+(a)          Seller’s Deliverables.  At the Closing, Seller shall deliver or have delivered to Buyer the following:
+
+
+(i)          A Certificate, in a form reasonably satisfactory to Buyer, executed by an executive officer of Seller and dated as of the Closing Date, certifying that (A) each of the representations and warranties of Seller set forth in this Agreement is true and correct as of the Closing Date as though made on and as of the Closing Date, and (B) Seller has performed or complied with all obligations, conditions and covenants required to be performed by it under this Agreement at or prior to the Closing.
+
+
+(ii)         Bill of Sale, executed by Seller and dated as of the Closing Date, in the form of Exhibit A hereto (the “Bill of Sale”);    
+
+
+(iii)        Assignment and Assumption Agreement related to the Assigned Contract, executed by Seller and dated as of the Closing Date, in the form of Exhibit B hereto (the “Assignment and Assumption Agreement”); and
+
+
+(iv)        The consent from Athyrium Capital Management set forth in Section 4.4.  
+
+
+(b)          Buyer’s Deliverables. At the Closing, Buyer shall have delivered to Seller the following:
+
+
+(i)          A Certificate, in a form reasonably satisfactory to Seller, executed by an executive officer of Buyer and dated of the Closing Date, certifying that (A) each of the representations and warranties of Buyer set forth in this Agreement is true and correct, in all material respects, as of the Closing Date as though made on and as of the Closing Date, and (B) Buyer has performed or complied with, in all material respects, all obligations, conditions and covenants required to be performed by it under this Agreement at or prior to the Closing;
+
+
+(ii)         Assignment and Assumption Agreement, executed by Buyer and dated as of the Closing Date;  
+
+
+(iii)        Buyer’s arrangements for collection of the Assets;
+
+
+(iv)        The consent from Novartis set forth in Section 4.4.
+
+ 
+
+7
+ 
+
+6.3          Conditions to Obligations of Buyer.  The obligations of Buyer to purchase the Assets, to assume the Assumed Liabilities and to consummate the other transactions contemplated by this Agreement are subject to the satisfaction on and as of the Closing Date of each of the following conditions (or Buyer’s expressed waiver of such condition in writing):
+
+
+(a)          Representations and Warranties.  The representations and warranties of Seller set forth in this Agreement shall be true and correct, in all material respects, as of the Closing Date.
+
+
+(b)          Performance of Obligations of Seller.  Seller shall have performed or complied in all material respects with all obligations, conditions and covenants required to be performed by it under this Agreement at or prior to the Closing.
+
+
+(c)          Consents.  The consents set forth in Section 4.4 shall have been obtained from Novartis and Athyrium Capital Management.
+
+
+(d)          No Injunction.  There shall not have been issued and in effect any injunction or similar legal order prohibiting or restraining consummation the transaction contemplated by this Agreement.
+
+
+(e)          Closing Deliverables.  On or before the Closing, Buyer shall have received from Seller each of the deliverables set forth in Section 6.2(a) above.
+
+ 
+
+6.4          Conditions to the Obligations of Seller.  The obligations of Seller to sell, assign, convey and deliver the Assets hereof are subject to the satisfaction on and as of the Closing of each of the following conditions (or Seller’s expressed waiver of such condition in writing):
+
+
+(a)          Representations and Warranties.  The representations and warranties of Buyer set forth in this Agreement shall be true and correct in all material respects as of the Closing.
+
+
+(b)          Performance of Obligations of Buyer.  Buyer shall have performed in all material respects all obligations required to be performed by it under this Agreement at or prior to the Closing Date.
+
+
+(c)          Consents.  The consents set forth in Section 4.4 shall have been obtained from Novartis and Athyrium Capital Management.
+
+
+(d)          No Injunction.  There shall not have been issued and in effect any injunction or similar legal order prohibiting or restraining consummation the transaction contemplated by this Agreement.
+
+
+(e)          Closing Deliverables.  On or before the Closing, Seller shall have received from Buyer each of the deliverables set forth in Section 6.2(b) above.
+
+ 
+
+8
+ 
+
+ARTICLE 7
+Post-Closing Covenants and Agreements
+
+ 
+
+7.1          Additional Deliveries.  For no additional consideration, from time to time, on and after the Closing Date, at Buyer’s request, Seller shall execute and deliver such additional or confirmatory instruments, documents of conveyance, endorsements, assignments and acknowledgments as are necessary to evidence or vest in Buyer sole and exclusive title in and to the Assets.
+
+ 
+
+7.2          Intentionally Omitted.
+
+ 
+
+7.3          Intentionally Omitted.
+
+ 
+
+7.4          Intentionally Omitted.
+
+ 
+
+7.5          Technology Transfer.  Seller agrees to provide its personnel as reasonably requested by Buyer to assist Buyer in the transfer of the Assets and technology related to the Assets to Buyer or such third parties as Buyer may designate (the “Tech Transfer”).  Buyer shall bear all costs related to the Tech Transfer at a rate of One Hundred Thousand Dollars ($100,000) per Seller employee full-time equivalent.  Any Tech Transfer costs hereunder and under any other asset purchase agreement between Seller and Buyer in excess of Twenty-Five Thousand Dollars ($25,000) in the aggregate shall require the prior written approval of Buyer.  Seller’s obligation to provide Tech Transfer assistance shall terminate on the six (6) month anniversary of the Closing Date.
+
+
+ARTICLE 8
+INDEMNIFICATION
+
+ 
+
+8.1          By Seller.  From and after the Closing Date, to the extent provided in this Article 8, Seller shall indemnify, defend and hold harmless Buyer and its Affiliates and their respective officers, directors, employees, agents, successors and assigns from and against any claims, suits or proceedings and any damages or liability therefrom or settlement thereof (including reasonable fees of attorneys and related costs) to the extent arising out of or related to (a) any breach of any representation, warranty, covenant or agreement of Seller contained in herein and (b) any Excluded Liability.
+
+ 
+
+8.2          By Buyer.  From and after the Closing Date, to the extent provided in this Article 8, Buyer shall indemnify, defend and hold harmless Seller and its Affiliates and their respective officers, directors, employees, agents, successors and assigns from and against any claims, suits or proceedings and any damages or liability therefrom or settlement thereof (including reasonable fees of attorneys and related costs) to the extent arising out of or related to (a) any breach of any representation, warranty, covenant or agreement of Buyer contained in this Agreement and (b) any Assumed Liability.
+
+ 
+
+8.3          Indemnification Procedures.  A Party (the “Indemnitee”) that intends to claim indemnification under this Article 8 shall promptly notify the other Party (the “Indemnitor”) in writing of any action, claim or liability in respect to which the Indemnitee or any of its Affiliates or its or their respective officers, directors, employees or agents intends to claim such
+
+
+9
+ 
+
+indemnification.  The Indemnitee shall permit and shall cause its employees and agents to permit, the Indemnitor, at its discretion, to settle any such action, claim or liability and agrees to the complete control of such defense or settlement by the Indemnitor; provided, however, that such settlement does not materially and adversely affect the Indemnitee’s rights hereunder or impose any obligations on the Indemnitee in addition to those set forth herein.  No such action, claim or liability shall be settled by the Indemnitee without the prior written consent of the Indemnitor (which consent shall not be unreasonably withheld, delayed or conditioned), and the Indemnitor shall not be responsible for any fees or other costs incurred other than as provided herein.  The Indemnitee, its employees, agents and Affiliates shall cooperate fully with the Indemnitor and its legal representatives in the investigation and defense of any action, claim or liability covered by this indemnification.  The Indemnitee shall have the right, but not the obligation to be represented by counsel of its own selection at its own expense.
+
+ 
+
+ARTICLE 9
+DISPUTE RESOLUTION
+
+ 
+
+9.1          Arbitration.  
+
+
+(a)          Any dispute arising out of or relating to this Agreement (including the Exhibits and Schedules referenced herein, the Ancillary Agreements and the other specific agreements contemplated herein or thereby) that cannot be resolved in thirty (30) days through good faith negotiation and discussion among the Parties shall be finally settled by arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules then in effect (the “Arbitration Rules”).  The arbitration shall be conducted in the County and State of New York, unless otherwise agreed by the Parties in writing.  The arbitration shall be conducted in the English language.
+
+
+(b)          The arbitration shall be conducted by a single, neutral arbitrator (“Arbitrator”) selected as follows:  Within ten (10) days after receipt of an arbitration notice from a Party, the Parties shall attempt in good faith to agree on an Arbitrator.  If the Parties do not agree on an Arbitrator within ten (10) days after receipt of an arbitration notice, the Parties shall exchange lists containing the names of three (3) candidates proposed by each Party to serve in such capacity.  No later than the five (5) days after the exchange of each Party’s list of candidates, each Party shall deliver to the other a list ranking all six (6) candidates proposed by the Parties in order of preference (one (1) being the most preferred and six (6) being the least preferred).  The candidate with the lowest aggregate ranking on the Parties’ lists shall serve as the Arbitrator (with the candidate whose last name comes first alphabetically being chosen in case of a tie).  If any candidate selected in accordance with the procedures provided in this Section is unable or unwilling to act as the Arbitrator, the candidate whose ranking is next lowest shall be approached until an Arbitrator is selected.  If none of the candidates proposed by the Parties is capable or willing to serve as the Arbitrator, the Parties may either agree to repeat the process until an Arbitrator is selected or, at the election of either Party, proceed in accordance with the Arbitration Rules.  
+
+
+(c)          The decision or award of the Arbitrator shall be final, binding and incontestable and may be used as a basis for judgment thereon in any jurisdiction. The Parties hereby expressly agree to waive the right to appeal from the decision of the Arbitrator.
+
+
+10
+ 
+
+Accordingly, there shall be no appeal to any court or other authority (government or private) from the decision of the Arbitrator, and the Parties shall not dispute nor question the validity of such decision or award before any regulatory or other authority in any jurisdiction where enforcement action is taken by the Party in whose favor the decision or award is rendered, except in the case the decision or award was procured by fraud.  The Arbitrator shall, upon the request of either Party, issue a written opinion of the findings of fact and conclusions of law and shall deliver a copy to each of the Parties.  Each Party shall bear its own costs and attorneys' fees, and the Parties shall equally bear the fees, costs, and expenses of the Arbitrator and the arbitration proceedings; provided, however, that the Arbitrator may exercise discretion to award costs, including reasonable and necessary attorneys' fees, to the prevailing Party.
+
+ 
+
+9.2          Jurisdiction/Venue/Enforcement of Award.  The Parties consent and submit to the exclusive personal jurisdiction and venue of the Supreme Court of the State of New York and the United States District Court for the Southern District of New York, each located in County of New York, State of New York, to compel arbitration in accordance with this Agreement, to enforce any arbitration award granted pursuant to this Agreement, including, any award granting equitable or injunctive relief, and to otherwise enforce this Agreement and carry out the intentions of the Parties to resolve all disputes arising under or in connection with this Agreement through arbitration.
+
+ 
+
+ARTICLE 10
+MISCELLANEOUS
+
+ 
+
+10.1       Confidentiality.  
+
+
+(a)          Each Party will treat as confidential the Confidential Information of the other Party, and will take all necessary precautions to assure the confidentiality of such Confidential Information.  Each Party agrees to return to the other Party upon the expiration or termination of this Agreement all Confidential Information acquired from such other Party, except as to such information it may be required to retain under Applicable Laws, and except for one copy of such information to be retained by such Party solely to enable it to assess its compliance with the confidentiality provisions of this Section 10.1.  From the date hereof through the period ending ten (10) years after the Closing Date, neither Party shall, without the other Party’s express prior written consent, use or disclose any such Confidential Information for any purpose other than to carry out its obligations hereunder.  Each Party, prior to disclosure of Confidential Information of the other Party to any employee, consultant or advisor shall ensure that such Person is bound in writing to observe the confidentiality such Party’s Confidential Information on terms no less restrictive than those contained herein.  The obligations of confidentiality shall not apply to Confidential Information that the receiving Party is required by law or regulation to disclose, provided however that the receiving Party shall so notify the disclosing Party of its intent and cooperate with the disclosing Party on reasonable measures to protect the confidentiality of the Confidential Information.  Seller hereby acknowledges and agrees that any Confidential Information of Seller on or before the Closing Date included in the Assets shall be Buyer’s Confidential Information after the Closing Date.
+
+ 
+
+10.2       Counterparts.  This Agreement may be executed in counterparts, each of which shall be deemed an original and all of which shall constitute a single document.
+
+ 
+
+11
+ 
+
+10.3       Entire Agreement.  This Agreement, and the Exhibits and Schedules referenced herein, that certain Summary Separation Proposal between Retrophin and Buyer’s Chief Executive Officer dated October 13, 2014, the Ancillary Agreements, the other specific agreements contemplated herein or thereby and that certain Asset Purchase Agreement between Seller, Manchester Pharmaceuticals LLC and Buyer to be entered into hereafter with respect to Seller’s Vecamyl product contain the entire agreement between the Parties with respect to the subject matter hereof and supersede all previous agreements, negotiations, discussions, writings, understandings, commitments and conversations with respect to such subject matter.
+
+ 
+
+10.4       Exhibits and Schedules.  The Exhibits and Schedules referenced herein and attached hereto are incorporated into this Agreement by reference.
+
+ 
+
+10.5       Governing Law.  This Agreement shall be governed by and construed and interpreted in accordance with the laws of the State of New York irrespective of the choice of laws principles of the State of New York.
+
+ 
+
+10.6       Assignability.  This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns.  Neither Party may assign its respective rights or delegate its respective obligations under this Agreement without the express prior written consent of the other Party; provided that either Party may assign or transfer this Agreement, to an Affiliate (provided the assigning Party remains liable hereunder), or to any Third Party in connection with the sale or transfer of the business to which this Agreement relates.  
+
+ 
+
+10.7       Third Party Beneficiaries.  Nothing in this Agreement shall be deemed to create any third party beneficiary rights in or on behalf of any other Person.
+
+ 
+
+10.8       Notices.  All notices required to be given hereunder shall be in writing and shall be given by personal delivery, by an internationally recognized overnight carrier or by registered or certified mail, postage prepaid with return receipt requested.  All notices hereunder shall be addressed as follows:
